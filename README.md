@@ -434,6 +434,7 @@ This survey aims to advance the research and development of OS Agents by providi
 9. [2024/06/18] Adversarial Attacks on Multimodal Agents. [[paper](https://arxiv.org/abs/2406.12814)]
 10. [2024/02/26] WIPI: A New Web Threat for LLM-Driven Web Agents. [[paper](https://arxiv.org/abs/2402.16965)]
 11. [2023/08/03] From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application? [[paper](https://arxiv.org/abs/2308.01990)]
+12. [2024/12/19] Agent-SafetyBench: Evaluating the Safety of LLM Agents. [[paper](https://arxiv.org/abs/2412.14470)]
 
 ## Hiring
 
