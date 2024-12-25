@@ -452,7 +452,7 @@ If interested, please contact via email: huxueyu.zju@gmail.com.
 1. aialt/awesome-mobile-agents: https://github.com/aialt/awesome-mobile-agents <br>
 2. OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List <br>
 3. vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey <br>
-
+4. wendell0218/GVA-Survey: https://github.com/wendell0218/GVA-Survey <br>
 ## Contact
 The repo is still being updated rapidly🚀. Please let us know if you notice any mistakes or would like any work related to OS Agents to be included in our list by e-mail: huxueyu.zju@gmail.com.
 
