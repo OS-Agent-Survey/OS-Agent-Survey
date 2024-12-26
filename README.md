@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41ef724c-fc51-4e35-8867-651e84d260c2)<h1 align="center">
+<h1 align="center">
 <img src="image/title_log_v3.jpg" width="100" alt="ToRA" />
 <br>
 OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
