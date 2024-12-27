@@ -27,7 +27,7 @@ This paper was **rejected by arXiv surprisingly** with the justification: "Our m
 
 ## 🔔We are hiring!
 
-(Some institutes involved in this survey is hiring. Information will be continuously updated, please stay tuned. Detailed Information is [here](https://github.com/OS-Agent-Survey/OS-Agent-Survey/edit/main/README.md#hiring).)
+(Some teams involved in this survey is hiring. Information will be continuously updated, please stay tuned. Detailed information is [here](https://github.com/OS-Agent-Survey/OS-Agent-Survey/edit/main/README.md#hiring).)
 
 ### [[OPPO](https://www.oppo.com/)] Personal AI Team
 [OPPO](https://www.oppo.com/) is seeking algorithm interns, new graduates, and experienced candidates for its Personal AI Team. Focused on multimodal LLMs, AI Agents, and personalization, the team works to develop **AI Native Phones**. Interested candidates, contact: zhouwangchunshu@oppo.com.
