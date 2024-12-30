@@ -23,14 +23,8 @@ This is the repo for the paper [OS Agents: A Survey on MLLM-based Agents for Gen
 <!--
 <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
 -->
-<img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
-
-<div style="text-align: center;">
-    <img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
-</div>
-
 <h1 align="center">
-<img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
+  <img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
 </h1>
 
 ## ❗Why is there no arXiv link for this paper?
