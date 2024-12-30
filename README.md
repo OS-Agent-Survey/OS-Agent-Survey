@@ -25,6 +25,14 @@ This is the repo for the paper [OS Agents: A Survey on MLLM-based Agents for Gen
 -->
 <img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
 
+<div style="text-align: center;">
+    <img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
+</div>
+
+<h1 align="center">
+<img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
+</h1>
+
 ## ❗Why is there no arXiv link for this paper?
 
 This paper was **rejected by arXiv surprisingly** with the justification: "Our moderators determined that your submission **does not contain sufficient original or substantive scholarly research and is not of interest to arXiv**." This reasoning appears to be **inconsistent with the content and contribution of the paper**. We attempted an **appeal**, but unfortunately, this was unsuccessful, and **no further explanation was provided**. A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our [GitHub repository](https://github.com/OS-Agent-Survey/OS-Agent-Survey) or via [OpenReview Archive](https://openreview.net/forum?id=I7ODESoF6k). We are disappointed by the lack of transparency in arXiv’s moderation process.
