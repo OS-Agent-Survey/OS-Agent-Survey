@@ -466,8 +466,12 @@ The repo is still being updated rapidly🚀. Please let us know if you notice an
 
 
 ## Citation
+<!--
 > [!CAUTION]
 > Considering that the **current bib citation points to our repository**, we will **update it to point to the paper as soon as the preprint server is available**. Please stay tuned for updates. Before this, if you find our repository helpful, we would appreciate it if you could cite:
+-->
+
+If you find our repository helpful, we would appreciate it if you could cite:
 ```
 @article{202412.2294,
 	doi = {10.20944/preprints202412.2294.v1},
