@@ -461,6 +461,7 @@ To better foster community collaboration, we have listed some repositories relat
 2. OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List <br>
 3. vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey <br>
 4. wendell0218/GVA-Survey: https://github.com/wendell0218/GVA-Survey <br>
+5. WebAgentLab : https://webagentlab.notion.site/homepage <br>
 
 ## Contact
 The repo is still being updated rapidly🚀. Please let us know if you notice any mistakes or would like any work related to OS Agents to be included in our list by e-mail: huxueyu.zju@gmail.com.
