@@ -81,7 +81,7 @@ This survey aims to advance the research and development of OS Agents by providi
 | NNetscape Navigator: Complex Demonstrations for Web Agents Without a Demonstrator                             | NNetNav             | Exist. LLMs   | -    | √     | -    | 10/2024 | [[paper](https://arxiv.org/abs/2410.02907)]                 |
 | Synatra: Turning indirect knowledge into direct demonstrations for digital agents at scale                    | Synatra             | Exist. LLMs   | -    | √     | -    | 09/2024 | [[paper](https://arxiv.org/abs/2409.15637)]                 |
 | MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding                               | MobileVLM           | Exist. MLLMs  | √    | √     | -    | 09/2024 | [[paper](https://arxiv.org/abs/2409.14818)]                 |
-| UI-Hawk: Unleashing the screen stream understanding for gui agents                                            | UI-Hawk             | Mod. MLLMs    | √    | √     | -    | 08/2024 | [[paper](https://www.preprints.org/manuscript/202408.2137)] |
+| UI-Hawk: Unleashing the Screen Stream Understanding for GUI Agents                                            | UI-Hawk             | Mod. MLLMs    | √    | √     | -    | 08/2024 | [[paper](https://www.preprints.org/manuscript/202408.2137)] |
 | GUI Action Narrator: Where and When Did That Action Take Place?                                               | GUI Action Narrator | Exist. MLLMs  | -    | √     | -    | 07/2024 | [[paper](https://arxiv.org/abs/2406.13719)]                 |
 | MobileFlow: A Multimodal LLM for Mobile GUI Agent                                                             | MobileFlow          | Mod. MLLMs    | √    | √     | -    | 07/2024 | [[paper](https://arxiv.org/abs/2407.04346)]                 |
 | VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning                       | VGA                 | Exist. MLLMs  | -    | √     | -    | 06/2024 | [[paper](https://arxiv.org/abs/2406.14056)]                 |
@@ -169,8 +169,8 @@ This survey aims to advance the research and development of OS Agents by providi
 | Mind2Web: Towards a Generalist Agent for the Web                                                          | Mind2Web          | Web        | ST   | -     | IF,AT  | 06/2023 | [[paper](https://arxiv.org/abs/2306.06070)]               |
 | Webshop: Towards scalable real-world web interaction with grounded language agents                        | WebShop           | Web        | ST   | -     | AT     | 07/2022 | [[paper](https://arxiv.org/abs/2207.01206)]               |
 | Mapping natural language commands to web elements                                                         | PhraseNode        | Web        | ST   | -     | GG     | 08/2018 | [[paper](https://arxiv.org/abs/1808.09132)]               |
-| World of bits: An open-domain platform for web-based agents                                               | MiniWoB           | Web        | ST   | -     | AT     | 08/2017 | [[paper](https://dl.acm.org/doi/10.5555/3305890.3306005)] |
-| World of bits: An open-domain platform for web-based agents                                               | FormWoB           | Web        | IT   | SM    | AT     | 08/2017 | [[paper](https://dl.acm.org/doi/10.5555/3305890.3306005)] |
+| World of Bits: An Open-Domain Platform for Web-Based Agents                                               | MiniWoB           | Web        | ST   | -     | AT     | 08/2017 | [[paper](https://dl.acm.org/doi/10.5555/3305890.3306005)] |
+| World of Bits: An Open-Domain Platform for Web-Based Agents                                               | FormWoB           | Web        | IT   | SM    | AT     | 08/2017 | [[paper](https://dl.acm.org/doi/10.5555/3305890.3306005)] |
 
 ## Full List
 
@@ -178,7 +178,7 @@ This survey aims to advance the research and development of OS Agents by providi
 
 1. [2024/12/13] Falcon-UI: Understanding GUI Before Following User Instructions. [[paper](https://arxiv.org/abs/2412.09362)]
 2. [2024/12/13] AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials. [[paper](https://arxiv.org/abs/2412.09605)]
-3. [2024/12/05] Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction. [[paper](https://arxiv.org/abs/2412.04454v1)]
+3. [2024/12/05] AGUVIS: Unified Pure Vision Agents for Autonomous GUI Interaction. [[paper](https://arxiv.org/abs/2412.04454v1)]
 4. [2024/11/26] ShowUI: One Vision-Language-Action Model for GUI Visual Agent. [[paper](https://arxiv.org/abs/2411.17465)]
 5. [2024/11/22] ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data. [[paper](https://arxiv.org/abs/2411.15004)]
 6. [2024/11/18] Improved GUI Grounding via Iterative Narrowing. [[paper](https://arxiv.org/abs/2411.13591)]
@@ -196,7 +196,7 @@ This survey aims to advance the research and development of OS Agents by providi
 18. [2024/09/24] Synatra: Turning indirect knowledge into direct demonstrations for digital agents at scale. [[paper](https://arxiv.org/abs/2409.15637)]
 19. [2024/09/23] MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding. [[paper](https://arxiv.org/abs/2409.14818)]
 20. [2024/09/22] MobileViews: A Large-Scale Mobile GUI Dataset. [[paper](https://arxiv.org/abs/2409.14337)]
-21. [2024/08/30] UI-Hawk: Unleashing the screen stream understanding for gui agents. [[paper](https://www.preprints.org/manuscript/202408.2137)]
+21. [2024/08/30] UI-Hawk: Unleashing the Screen Stream Understanding for GUI Agents. [[paper](https://www.preprints.org/manuscript/202408.2137)]
 22. [2024/07/19] GUI Action Narrator: Where and When Did That Action Take Place? [[paper](https://arxiv.org/abs/2406.13719)]
 23. [2024/07/05] MobileFlow: A Multimodal LLM for Mobile GUI Agent. [[paper](https://arxiv.org/abs/2407.04346)]
 24. [2024/06/20] VGA: Vision GUI Assistant - Minimizing Hallucinations through Image-Centric Fine-Tuning. [[paper](https://arxiv.org/abs/2406.14056)]
@@ -236,7 +236,7 @@ This survey aims to advance the research and development of OS Agents by providi
 58. [2022/10/06] Towards Better Semantic Understanding of Mobile Interfaces. [[paper](https://arxiv.org/abs/2210.02663)]
 59. [2022/09/29] Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus. [[paper](https://arxiv.org/abs/2209.14927)]
 60. [2022/07/04] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents. [[paper](https://arxiv.org/abs/2207.01206)]
-61. [2022/05/23] Meta-gui: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
+61. [2022/05/23] META-GUI: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
 62. [2022/02/16] A data-driven approach for learning to control computers. [[paper](https://arxiv.org/abs/2202.08137)]
 
 ### Agent Frameworks
@@ -317,14 +317,14 @@ This survey aims to advance the research and development of OS Agents by providi
 74. [2023/05/09] InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language. [[paper](https://arxiv.org/abs/2305.05662)]
 75. [2023/03/30] Language Models can Solve Computer Tasks. [[paper](https://arxiv.org/abs/2303.17491)]
 76. [2022/09/19] Enabling conversational interaction with mobile ui using large language models. [[paper](https://arxiv.org/abs/2209.08655)]
-77. [2022/05/23] Meta-gui: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
+77. [2022/05/23] META-GUI: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
 
     
 
 ### Evaluation & Benchmark
 
 1. [2024/12/09] BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks. [[paper](https://arxiv.org/abs/2412.04626)]
-2. [2024/12/05] Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction. [[paper](https://arxiv.org/abs/2412.04454v1)]
+2. [2024/12/05] AGUVIS: Unified Pure Vision Agents for Autonomous GUI Interaction. [[paper](https://arxiv.org/abs/2412.04454v1)]
 3. [2024/10/31] AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents. [[paper](https://arxiv.org/abs/2410.24024)]
 4. [2024/10/28] AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation. [[paper](https://dl.acm.org/doi/abs/10.1145/3664647.3684998)]
 5. [2024/10/28] Shopping MMLU: A Massive Multi-Task Online Shopping Benchmark for Large Language Models. [[paper](https://arxiv.org/abs/2410.20745)]
@@ -420,13 +420,13 @@ This survey aims to advance the research and development of OS Agents by providi
 95. [2022/09/29] MUG: Interactive Multimodal Grounding on User Interfaces. [[paper](https://arxiv.org/abs/2209.15099)]
 96. [2022/09/16] ScreenQA: Large-Scale Question-Answer Pairs over Mobile App Screenshots. [[paper](https://arxiv.org/abs/2209.08199)]
 97. [2022/07/04] Webshop: Towards scalable real-world web interaction with grounded language agents. [[paper](https://arxiv.org/abs/2207.01206)]
-98. [2022/05/23] Meta-gui: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
+98. [2022/05/23] META-GUI: Towards multi-modal conversational agents on mobile gui. [[paper](https://arxiv.org/abs/2205.11029)]
 99. [2022/02/04] A Dataset for Interactive Vision-Language Navigation with Unknown Command Feasibility. [[paper](https://arxiv.org/abs/2202.02312)]
 100. [2021/04/17] Mobile app tasks with iterative feedback (motif): Addressing task feasibility in interactive visual environments. [[paper](https://arxiv.org/abs/2104.08560)]
 101. [2021/01/23] Websrc: A dataset for web-based structural reading comprehension. [[paper](https://arxiv.org/abs/2101.09465)]
 102. [2018/08/28] Mapping natural language commands to web elements. [[paper](https://arxiv.org/abs/1808.09132)]
 103. [2017/11/06] Building natural language interfaces to web apis. [[paper](https://dl.acm.org/doi/10.1145/3132847.3133009)]
-104. [2017/08/06] World of bits: An open-domain platform for web-based agents. [[paper](https://dl.acm.org/doi/10.5555/3305890.3306005)]
+104. [2017/08/06] World of Bits: An Open-Domain Platform for Web-Based Agents. [[paper](https://dl.acm.org/doi/10.5555/3305890.3306005)]
 
 ### Safety & Privacy
 
