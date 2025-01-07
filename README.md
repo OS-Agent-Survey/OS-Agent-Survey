@@ -9,7 +9,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
 
 <p align="center">
   <a href="https://os-agent-survey.github.io/"><b>[🌐 Website]</b></a> •
-  <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf"><b>[📜 Paper]</b></a> •
+  <a href="https://os-agent-survey.github.io/paper.pdf"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main"><b>[🐱 GitHub]</b></a>•
   <a href="https://zhuanlan.zhihu.com/p/14143950360n" style="margin-left: 4px;"><b> [ <img src="./image/zhihu_logo_v2.png" alt="知乎" style="width:15px; height:15px;vertical-align:-12px;";""> Zhihu]</b></a>•
   <a href="https://openreview.net/forum?id=I7ODESoF6k" style="margin-left: 4px;"><b> [ <img src="./image/openreview_v3.jpg" alt="openreview" style="width:15px; height:15px;vertical-align:-12px;";""> OpenReview]</b></a>•
@@ -20,7 +20,7 @@ OS Agents: A Survey on MLLM-based Agents <br>for General Computing Devices Use
   <!-- <a href="#%EF%B8%8F-citation">Citation</a> -->
 </p>
 
-This is the repo for the paper [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://github.com/OS-Agent-Survey/OS-Agent-Survey/blob/main/paper.pdf). This paper conducts a comprehensive survey on OS Agents, which are **(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks**. The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: **Foundation Models**, **Agent Frameworks**, **Evaluation & Benchmarks**, and **Safety & Privacy** and this collection will be continuously updated. We aim to provide you with comprehensive knowledge in the OS Agent field, hoping it can help you quickly familiarize yourself with this research direction.
+This is the repo for the paper [OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use](https://os-agent-survey.github.io/paper.pdf). This paper conducts a comprehensive survey on OS Agents, which are **(M)LLM-based agents that use computing devices (e.g., computers and mobile phones) by operating within the environments and interfaces (e.g., Graphical User Interface (GUI)) provided by operating systems (OS) to automate tasks**. The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: **Foundation Models**, **Agent Frameworks**, **Evaluation & Benchmarks**, and **Safety & Privacy** and this collection will be continuously updated. We aim to provide you with comprehensive knowledge in the OS Agent field, hoping it can help you quickly familiarize yourself with this research direction.
 <!--
 <img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github.jpg">
 -->
