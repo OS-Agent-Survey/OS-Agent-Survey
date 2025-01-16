@@ -54,7 +54,6 @@ This paper was **rejected by arXiv surprisingly** with the justification: "Our m
 - [Useful Links](#useful-links)
 - [Contact](#contact)
 - [Citation](#citation)
-- [Star History](#star-history)
 ## Overview of OS Agent Survey
 <!--
 This survey aims to make contributions to the research and development of OS Agents by providing readers with a comprehensive understanding of their essential capabilities, offering insights into methodologies for building OS Agents based on (M)LLMs, and highlighting the latest research trends, challenges and future in this field. Recognizing that OS Agents are still in their early stages of development, we acknowledge the rapid advancements that continue to introduce novel methodologies and applications. Through this work, we aspire to inspire further innovation, driving progress in both academic research and industrial applications of OS Agents.
@@ -489,5 +488,3 @@ If you find our work valuable for your research or applications, we would greatl
 	journal = {Preprints}
 } 
 ```
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=OS-Agent-Survey/OS-Agent-Survey&type=Date)](https://star-history.com/#OS-Agent-Survey/OS-Agent-Survey&Date)
