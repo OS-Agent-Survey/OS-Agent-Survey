@@ -445,13 +445,13 @@ This survey aims to advance the research and development of OS Agents by providi
 [OPPO](https://www.oppo.com/) is dedicated to developing the most advanced foundation model technologies and creating personalized user experiences. Our mission is focused on developing revolutionary **AI Native Phones** that will shape the future. The Personal AI Team is primarily focused on cutting-edge research in (multimodal) LLMs, AI Agents and personalization (e.g., team's new work [AI PERSONA](https://arxiv.org/abs/2412.13103)). The team leverages OPPO’s ample platform resources, including data and computing power, to continuously invest in these key areas. We are currently hiring algorithm interns, new graduates, and experienced candidates. We expect you to be proficient in algorithms or engineering of large foundation models. If interested, please contact via email: zhouwangchunshu@oppo.com.
 
 ## Useful Links
-To better foster community collaboration, we have listed some repositories related to OS Agents：
+To better foster community collaboration, we have listed some repositories related to OS Agents:
 1. aialt/awesome-mobile-agents: https://github.com/aialt/awesome-mobile-agents <br>
 2. OSU-NLP-Group/GUI-Agents-Paper-List: https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List <br>
 3. vyokky/LLM-Brained-GUI-Agents-Survey: https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey <br>
 4. wendell0218/GVA-Survey: https://github.com/wendell0218/GVA-Survey <br>
 5. WebAgentLab: https://webagentlab.notion.site/homepage <br>
-6. APhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents： https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents <br>
+6. PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents: https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents <br>
 
 ## Contact
 The repo is still being updated rapidly🚀. Please let us know if you notice any mistakes or would like any work related to OS Agents to be included in our list by e-mail: huxueyu.zju@gmail.com.
