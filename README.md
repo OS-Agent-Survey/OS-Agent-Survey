@@ -452,6 +452,7 @@ To better foster community collaboration, we have listed some repositories relat
 4. wendell0218/GVA-Survey: https://github.com/wendell0218/GVA-Survey <br>
 5. WebAgentLab: https://webagentlab.notion.site/homepage <br>
 6. PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents: https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents <br>
+7. ranpox/awesome-computer-use: https://github.com/ranpox/awesome-computer-use <br>
 
 ## Contact
 The repo is still being updated rapidly🚀. Please let us know if you notice any mistakes or would like any work related to OS Agents to be included in our list by e-mail: huxueyu.zju@gmail.com.
