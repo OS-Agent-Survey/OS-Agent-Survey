@@ -22,7 +22,7 @@ OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use
 This is the repo for the paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)". This paper conducts a comprehensive survey on OS Agents, which are **(M)LLM-based Agents using computers, phones and browsers by operating within the environments and interfaces (e.g., Graphical User Interface (GUI) and Command Line Interface (CLI)) provided by operating systems (OS) to automate tasks**. The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: **Foundation Models**, **Agent Frameworks**, **Evaluation & Benchmarks**, and **Safety & Privacy** and this collection will be continuously updated. We aim to provide you with comprehensive knowledge in the OS Agent field, hoping it can help you quickly familiarize yourself with this research direction.
 
 <h1 align="center">
-  <img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/os_agent_evolutionary_tree_version_github_0124.png">
+  <img style="width: 70%; height: auto; margin-bottom: 20px;" src="image/1_os_agent_evolutionary_tree_github_0217.jpg">
 </h1>
 
 ## ❗Why is there no arXiv link for this paper?
@@ -54,7 +54,7 @@ This survey aims to make contributions to the research and development of OS Age
 -->
 This survey aims to advance the research and development of OS Agents by providing a detailed exploration of their fundamental capabilities, methodologies for building them using (M)LLMs, and emerging trends in the field. While OS Agents are still in the early stages of growth, the rapid evolution of technology continues to introduce innovative approaches and applications. This work seeks to highlight ongoing challenges, future opportunities, and the latest developments, encouraging further research and industrial adoption. Ultimately, we hope this study will serve as a catalyst for innovation, driving meaningful progress in both academia and industry.
 
-<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="image/survey_overview_2.jpg">
+<img style="max-width: 100%; height: auto; margin-bottom: 20px;" src="image/1_teaser_os_agent_0217.jpg">
 
 
 
