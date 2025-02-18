@@ -169,7 +169,7 @@ This survey aims to advance the research and development of OS Agents by providi
 ## Full List
 
 ### Foundation Models
-
+1. [2025/02/17] Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents [[paper](https://arxiv.org/abs/2502.11357)]
 1. [2024/12/13] Falcon-UI: Understanding GUI Before Following User Instructions. [[paper](https://arxiv.org/abs/2412.09362)]
 2. [2024/12/13] AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials. [[paper](https://arxiv.org/abs/2412.09605)]
 3. [2024/12/05] AGUVIS: Unified Pure Vision Agents for Autonomous GUI Interaction. [[paper](https://arxiv.org/abs/2412.04454v1)]
