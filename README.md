@@ -463,10 +463,7 @@ The repo is still being updated rapidly🚀. Please let us know if you notice an
 > Considering that the **current bib citation points to our repository**, we will **update it to point to the paper as soon as the preprint server is available**. Please stay tuned for updates. Before this, if you find our repository helpful, we would appreciate it if you could cite:
 
 If you find our repository helpful, we would appreciate it if you could cite:
--->
 
-If you find our work valuable for your research or applications, we would greatly appreciate a star ⭐ and a citation using the BibTeX entry provided below.
-```
 @article{202412.2294,
 	doi = {10.20944/preprints202412.2294.v1},
 	url = {https://doi.org/10.20944/preprints202412.2294.v1},
@@ -476,5 +473,14 @@ If you find our work valuable for your research or applications, we would greatl
 	author = {Xueyu Hu and Tao Xiong and Biao Yi and Zishu Wei and Ruixuan Xiao and Yurun Chen and Jiasheng Ye and Meiling Tao and Xiangxin Zhou and Ziyu Zhao and Yuhuai Li and Shengze Xu and Shawn Wang and Xinchen Xu and Shuofei Qiao and Kun Kuang and Tieyong Zeng and Liang Wang and Jiwei Li and Yuchen Eleanor Jiang and Wangchunshu Zhou and Guoyin Wang and Keting Yin and Zhou Zhao and Hongxia Yang and Fan Wu and Shengyu Zhang and Fei Wu},
 	title = {OS Agents: A Survey on MLLM-Based Agents for General Computing Devices Use},
 	journal = {Preprints}
-} 
+}
+-->
+
+If you find our work valuable for your research or applications, we would greatly appreciate a star ⭐ and a citation using the BibTeX entry provided below.
 ```
+@article{huagents,
+  title={OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use},
+  author={Hu, Xueyu and Xiong, Tao and Yi, Biao and Wei, Zishu and Xiao, Ruixuan and Chen, Yurun and Ye, Jiasheng and Tao, Meiling and Zhou, Xiangxin and Zhao, Ziyu and others}
+}
+```
+
