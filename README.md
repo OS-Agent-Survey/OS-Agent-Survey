@@ -136,6 +136,7 @@ This survey aims to advance the research and development of OS Agents by providi
 
 | Paper                                                                                                     | Benchmark         | Platform   | BS   | OET   | Task   | Date    | Link                                                      |
 |:----------------------------------------------------------------------------------------------------------|:------------------|:-----------|:-----|:------|:-------|:--------|:----------------------------------------------------------|
+| AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents              | AppWorld          | M/P        | IT   | SM    | GG,CG  | 07/2024 | [[paper](https://arxiv.org/abs/2407.18901)]               |
 | On the effects of data scale on computer control agents                                                   | AndroidControl    | M/P        | ST   | -     | AT     | 06/2024 | [[paper](https://arxiv.org/abs/2406.03679)]               |
 | AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents                                    | AndroidWorld      | M/P        | IT   | RW    | AT     | 05/2024 | [[paper](https://arxiv.org/abs/2405.14573)]               |
 | Latent state estimation helps ui agents to reason                                                         | Android-50 (A-50) | M/P        | IT   | RW    | AT     | 05/2024 | [[paper](https://arxiv.org/abs/2405.11120)]               |
