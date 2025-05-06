@@ -431,12 +431,13 @@ This survey aims to advance the research and development of OS Agents by providi
 4. [2024/10/11] Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents. [[paper](https://arxiv.org/abs/2410.13886)]
 5. [2024/10/09] ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents. [[paper](https://arxiv.org/abs/2410.06703)]
 6. [2024/09/17] Eia: Environmental injection attack on generalist web agents for privacy leakage. [[paper](https://arxiv.org/abs/2409.11295)]
-7. [2024/08/05] Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions. [[paper](https://arxiv.org/abs/2408.02544)]
-8. [2024/07/12] Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study. [[paper](https://arxiv.org/abs/2407.09295)]
-9. [2025/02/04] Dissecting Adversarial Robustness of Multimodal LM Agents. [[paper](https://arxiv.org/abs/2406.12814)]
-10. [2024/02/26] WIPI: A New Web Threat for LLM-Driven Web Agents. [[paper](https://arxiv.org/abs/2402.16965)]
-11. [2023/08/03] From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application? [[paper](https://arxiv.org/abs/2308.01990)]
-12. [2024/12/19] Agent-SafetyBench: Evaluating the Safety of LLM Agents. [[paper](https://arxiv.org/abs/2412.14470)]
+7. [2025/02/18] Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks [[paper](https://arxiv.org/abs/2502.13053)]
+8. [2024/08/05] Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions. [[paper](https://arxiv.org/abs/2408.02544)]
+9. [2024/07/12] Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study. [[paper](https://arxiv.org/abs/2407.09295)]
+10. [2025/02/04] Dissecting Adversarial Robustness of Multimodal LM Agents. [[paper](https://arxiv.org/abs/2406.12814)]
+11. [2024/02/26] WIPI: A New Web Threat for LLM-Driven Web Agents. [[paper](https://arxiv.org/abs/2402.16965)]
+12. [2023/08/03] From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application? [[paper](https://arxiv.org/abs/2308.01990)]
+13. [2024/12/19] Agent-SafetyBench: Evaluating the Safety of LLM Agents. [[paper](https://arxiv.org/abs/2412.14470)]
 
 ## Hiring
 
