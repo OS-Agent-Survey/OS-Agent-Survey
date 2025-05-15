@@ -480,9 +480,11 @@ If you find our repository helpful, we would appreciate it if you could cite:
 
 If you find our work valuable for your research or applications, we would greatly appreciate a star ⭐ and a citation using the BibTeX entry provided below.
 ```
-@article{huagents,
+@misc{hu2024agents,
   title={OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use},
-  author={Hu, Xueyu and Xiong, Tao and Yi, Biao and Wei, Zishu and Xiao, Ruixuan and Chen, Yurun and Ye, Jiasheng and Tao, Meiling and Zhou, Xiangxin and Zhao, Ziyu and others}
+  author={Hu, Xueyu and Xiong, Tao and Yi, Biao and Wei, Zishu and Xiao, Ruixuan and Chen, Yurun and Ye, Jiasheng and Tao, Meiling and Zhou, Xiangxin and Zhao, Ziyu and others},
+  year={2024},
+  publisher={OpenReview}
 }
 ```
 
