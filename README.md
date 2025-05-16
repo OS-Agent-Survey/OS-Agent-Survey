@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="image/title_log_v3.jpg" width="100" alt="ToRA" />
 <br>
-OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use
+OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use (ACL 2025)
 </h1>
 
 
