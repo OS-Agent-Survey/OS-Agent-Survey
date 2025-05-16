@@ -25,6 +25,10 @@ This is the repo for the paper "[OS Agents: A Survey on MLLM-based Agents for Co
   <img style="width: 100%; height: auto; margin-bottom: 20px;" src="image/1_os_agent_evolutionary_tree_github_0217.jpg">
 </h1>
 
+## 🔥News
+🔥 2025/05/15 Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" is accepted by ACL 2025.
+🔥 2024/12/12 Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" released.
+
 ## ❗Why is there no arXiv link for this paper?
 
 This paper was **rejected by arXiv surprisingly** with the justification: "Our moderators determined that your submission **does not contain sufficient original or substantive scholarly research and is not of interest to arXiv**." This reasoning appears to be **inconsistent with the content and contribution of the paper**. We attempted an **appeal**, but unfortunately, this was unsuccessful, and **no further explanation was provided**. A resubmission did not resolve the issue either. As a result, the ONLY way to access the paper at the moment is through our [GitHub repository](https://github.com/OS-Agent-Survey/OS-Agent-Survey) or via [OpenReview Archive](https://openreview.net/forum?id=I7ODESoF6k). We are disappointed by the lack of transparency in arXiv’s moderation process.
