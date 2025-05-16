@@ -26,7 +26,7 @@ This is the repo for the paper "[OS Agents: A Survey on MLLM-based Agents for Co
 </h1>
 
 ## 🔥News
-🔥 2025/05/15 Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" is accepted by ACL 2025.
+🔥 2025/05/15 Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" is accepted by ACL 2025.<br>
 🔥 2024/12/12 Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" released.
 
 ## ❗Why is there no arXiv link for this paper?
