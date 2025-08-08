@@ -8,7 +8,7 @@ OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use (AC
 
 <p align="center">
   <a href="https://os-agent-survey.github.io/"><b>[🌐 Website]</b></a> •
-  <a href="https://os-agent-survey.github.io/paper.pdf"><b>[📜 Paper]</b></a> •
+  <a href="https://arxiv.org/abs/2508.04482"><b>[📜 Paper]</b></a> •
   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main"><b>[🐱 GitHub]</b></a>•
   <a href="https://zhuanlan.zhihu.com/p/14143950360n" style="margin-left: 4px;"><b> [ <img src="./image/zhihu_logo_v2.png" alt="知乎" style="width:15px; height:15px;vertical-align:-12px;";""> Zhihu]</b></a>•
   <a href="https://openreview.net/forum?id=I7ODESoF6k" style="margin-left: 4px;"><b> [ <img src="./image/openreview_v3.jpg" alt="openreview" style="width:15px; height:15px;vertical-align:-12px;";""> OpenReview]</b></a>•
@@ -19,7 +19,7 @@ OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use (AC
   <!-- <a href="#%EF%B8%8F-citation">Citation</a> -->
 </p>
 
-This is the repo for the paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)". This paper conducts a comprehensive survey on OS Agents, which are **(M)LLM-based Agents using computers, phones and browsers by operating within the environments and interfaces (e.g., Graphical User Interface (GUI) and Command Line Interface (CLI)) provided by operating systems (OS) to automate tasks**. The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: **Foundation Models**, **Agent Frameworks**, **Evaluation & Benchmarks**, and **Safety & Privacy** and this collection will be continuously updated. We aim to provide you with comprehensive knowledge in the OS Agent field, hoping it can help you quickly familiarize yourself with this research direction.
+This is the repo for the paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://arxiv.org/abs/2508.04482)". This paper conducts a comprehensive survey on OS Agents, which are **(M)LLM-based Agents using computers, phones and browsers by operating within the environments and interfaces (e.g., Graphical User Interface (GUI) and Command Line Interface (CLI)) provided by operating systems (OS) to automate tasks**. The survey is aimed to consolidates the state of OS Agents research, providing insights to guide both academic inquiry and industrial development. In this repository, we have listed relevant papers related to our work in four areas: **Foundation Models**, **Agent Frameworks**, **Evaluation & Benchmarks**, and **Safety & Privacy** and this collection will be continuously updated. We aim to provide you with comprehensive knowledge in the OS Agent field, hoping it can help you quickly familiarize yourself with this research direction.
 
 <h1 align="center">
   <img style="width: 100%; height: auto; margin-bottom: 20px;" src="image/1_os_agent_evolutionary_tree_github_0217.jpg">
@@ -27,8 +27,8 @@ This is the repo for the paper "[OS Agents: A Survey on MLLM-based Agents for Co
 
 <!--
 ## 🔥News
-- 🔥 ***`2025/05/15`*** Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" is accepted by ACL 2025.<br>
-- 🔥 ***`2024/12/12`*** Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://os-agent-survey.github.io/paper.pdf)" released.
+- 🔥 ***`2025/05/15`*** Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://arxiv.org/abs/2508.04482)" is accepted by ACL 2025.<br>
+- 🔥 ***`2024/12/12`*** Our paper "[OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use](https://arxiv.org/abs/2508.04482)" released.
 -->
 
 <!--
