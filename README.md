@@ -8,7 +8,7 @@ OS Agents: A Survey on MLLM-based Agents for Computer, Phone and Browser Use (AC
 
 <p align="center">
   <a href="https://os-agent-survey.github.io/"><b>[🌐 Website]</b></a> •
-  <a href="https://arxiv.org/abs/2508.04482"><b>[📜 Paper]</b></a> •
+  <a href="https://arxiv.org/abs/2508.04482"><b>[📜 arXiv]</b></a> •
   <a href="https://github.com/OS-Agent-Survey/OS-Agent-Survey/tree/main"><b>[🐱 GitHub]</b></a>•
   <a href="https://zhuanlan.zhihu.com/p/14143950360n" style="margin-left: 4px;"><b> [ <img src="./image/zhihu_logo_v2.png" alt="知乎" style="width:15px; height:15px;vertical-align:-12px;";""> Zhihu]</b></a>•
   <a href="https://openreview.net/forum?id=I7ODESoF6k" style="margin-left: 4px;"><b> [ <img src="./image/openreview_v3.jpg" alt="openreview" style="width:15px; height:15px;vertical-align:-12px;";""> OpenReview]</b></a>•
